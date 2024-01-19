@@ -47,7 +47,5 @@ more than just one line
 #print(bool(x))
 
 #Python numbers
-x = 5
-x = 
-float
-(x)
+#x = 5
+#x = float(x)
