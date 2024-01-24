@@ -69,5 +69,3 @@ more than just one line
 #txt=txt.lower()
 #txt = "Hello World"
 #txt=txt.replace("H", "J")
-hello 
-dvlmvrvm
