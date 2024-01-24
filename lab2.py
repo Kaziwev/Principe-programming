@@ -36,26 +36,36 @@
 #fruits = ["apple", "banana", "cherry"]
 #fruits.append("orange")
 
-#fruits = ["apple", "banana", "cherry"]
-#fruits.insert(1,"lemon")
+fruits = ["apple", "banana", "cherry"]
+fruits.insert(1,"lemon")
+print
 
-#fruits = ["apple", "banana", "cherry"]
-#print(fruits[-1])
+# fruits = ["apple", "banana", "cherry"]
+# print(fruits[-1])
+# Output:cherry
 
-#fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-#print(fruits[2:5])
 
-#fruits = ["apple", "banana", "cherry"]
-#print(len(fruits))
+# fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+# print(fruits[2:5])
+# Output:['cherry', 'orange', 'kiwi']
+
+# fruits = ["apple", "banana", "cherry"]
+# print(len(fruits))
+# Output:3
+
+# fruits = ("apple", "banana", "cherry")
+# print(fruits[0])
+# Output:apple
+
+# fruits = ("apple", "banana", "cherry")
+# print(len(fruits))
+# Output:3
 
 #fruits = ("apple", "banana", "cherry")
-#print(fruits[0])
+#print(fruits[-1])"""
+#Output:("cherry")
 
-#fruits = ("apple", "banana", "cherry")
-#print(len(fruits))
+#fruits = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+#print(fruits[2:5]) 
+#Output:('cherry', 'orange', 'kiwi')
 
-"""fruits = ("apple", "banana", "cherry")
-print(fruits[-1])"""
-
-fruits = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
-print(fruits[2:5]) 
