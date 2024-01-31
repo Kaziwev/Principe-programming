@@ -145,3 +145,67 @@
 # Output:['apple', 'banana', 'cherry', 'orange']
 
 
+# thislist = ["apple", "banana", "cherry"]
+# thislist.insert(1, "orange")
+# print(thislist)
+# Output:['apple', 'orange', 'banana', 'cherry']
+
+
+# thislist = ["apple", "banana", "cherry"]
+# tropical = ["mango", "pineapple", "papaya"]
+# thislist.extend(tropical)
+# print(thislist)
+# Output:['apple', 'banana', 'cherry', 'mango', 'pineapple', 'papaya']
+
+
+# thislist = ["apple", "banana", "cherry"]
+# thistuple = ("kiwi", "orange")
+# thislist.extend(thistuple)
+# print(thislist)
+# Output:['apple', 'banana', 'cherry', 'kiwi', 'orange']
+
+
+# thislist = ["apple", "banana", "cherry"]
+# thislist.remove("banana")
+# print(thislist)
+# Output:['apple', 'cherry']
+
+
+# thislist = ["apple", "banana", "cherry", "banana", "kiwi"]
+# thislist.remove("banana")
+# print(thislist)
+# Output:['apple', 'cherry', 'banana', 'kiwi']
+
+
+# thislist = ["apple", "banana", "cherry"]
+# thislist.pop(1)
+# print(thislist)
+# Output:['apple', 'cherry']
+
+
+# thislist = ["apple", "banana", "cherry"]
+# thislist.pop()
+# print(thislist)
+# Output:['apple', 'banana']
+
+
+# thislist = ["apple", "banana", "cherry"]
+# del thislist[0]
+# print(thislist)
+# Output:['banana', 'cherry']
+
+
+# thislist = ["apple", "banana", "cherry"]
+# del thislist
+# print(thislist)
+# Output:Error
+
+
+# thislist = ["apple", "banana", "cherry"]
+# thislist.clear()
+# print(thislist)
+# Output:[]
+
+
+
+
