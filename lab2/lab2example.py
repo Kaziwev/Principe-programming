@@ -7,6 +7,7 @@
 # False
 # False
 
+
 # a = 200
 # b = 33
 # if b > a:
@@ -15,6 +16,7 @@
 #   print("b is not greater than a")
 #   Output:b is not greater than a
   
+
 
 # bool("abc")
 # bool(123)
@@ -28,12 +30,15 @@
 # bool([])
 # bool({})
 
+
+
 # class myclass():
 #   def __len__(self):
 #     return 0
 # myobj = myclass()
 # print(bool(myobj))
 # Output:False
+
 
 # def myFunction() :
 #   return True
@@ -55,6 +60,8 @@
 # 115
 # 15
 
+
+
 #List
 # thislist = ["apple", "banana", "cherry"]
 # print(thislist)
@@ -67,6 +74,7 @@
 # thislist = ["apple", "banana", "cherry"]
 # print(len(thislist))
 # Output:3
+
 
 # list1 = ["apple", "banana", "cherry"]
 # list2 = [1, 5, 7, 9, 3]
