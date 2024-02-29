@@ -1,5 +1,5 @@
 import re
 
 text = input(str(""))
-replacedText = re.sub(r'[ ,.]', ':', text)
+replacedText = re.sub('[ ,.]', ':', text)
 print(replacedText)
