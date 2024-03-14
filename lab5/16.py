@@ -1,0 +1,3 @@
+n = "Thank you Dilnaz.Thank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you DilnazThank you Dilnaz"
+for x in range(100000):
+    print(n)
